@@ -1,0 +1,220 @@
+F:\المواد\Covid\Covid\bin\Covid.dll.config
+F:\المواد\Covid\Covid\bin\Covid.dll
+F:\المواد\Covid\Covid\bin\Covid.pdb
+F:\المواد\Covid\Covid\bin\Antlr3.Runtime.dll
+F:\المواد\Covid\Covid\bin\ClosedXML.dll
+F:\المواد\Covid\Covid\bin\Common.Logging.Core.dll
+F:\المواد\Covid\Covid\bin\Common.Logging.dll
+F:\المواد\Covid\Covid\bin\DocumentFormat.OpenXml.dll
+F:\المواد\Covid\Covid\bin\EntityFramework.dll
+F:\المواد\Covid\Covid\bin\EntityFramework.SqlServer.dll
+F:\المواد\Covid\Covid\bin\ExcelNumberFormat.dll
+F:\المواد\Covid\Covid\bin\Microsoft.AspNet.Identity.Core.dll
+F:\المواد\Covid\Covid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\المواد\Covid\Covid\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Cors.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.Cookies.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.Facebook.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.Google.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.OAuth.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.Twitter.dll
+F:\المواد\Covid\Covid\bin\Microsoft.Web.Infrastructure.dll
+F:\المواد\Covid\Covid\bin\Newtonsoft.Json.dll
+F:\المواد\Covid\Covid\bin\Owin.dll
+F:\المواد\Covid\Covid\bin\Quartz.dll
+F:\المواد\Covid\Covid\bin\System.Net.Http.Formatting.dll
+F:\المواد\Covid\Covid\bin\System.Web.Cors.dll
+F:\المواد\Covid\Covid\bin\System.Web.Helpers.dll
+F:\المواد\Covid\Covid\bin\System.Web.Http.Cors.dll
+F:\المواد\Covid\Covid\bin\System.Web.Http.dll
+F:\المواد\Covid\Covid\bin\System.Web.Http.WebHost.dll
+F:\المواد\Covid\Covid\bin\System.Web.Mvc.dll
+F:\المواد\Covid\Covid\bin\System.Web.Optimization.dll
+F:\المواد\Covid\Covid\bin\System.Web.Razor.dll
+F:\المواد\Covid\Covid\bin\System.Web.WebPages.Deployment.dll
+F:\المواد\Covid\Covid\bin\System.Web.WebPages.dll
+F:\المواد\Covid\Covid\bin\System.Web.WebPages.Razor.dll
+F:\المواد\Covid\Covid\bin\WebApiContrib.Formatting.Jsonp.dll
+F:\المواد\Covid\Covid\bin\WebGrease.dll
+F:\المواد\Covid\Covid\bin\ClosedXML.pdb
+F:\المواد\Covid\Covid\bin\ClosedXML.xml
+F:\المواد\Covid\Covid\bin\Common.Logging.pdb
+F:\المواد\Covid\Covid\bin\Common.Logging.xml
+F:\المواد\Covid\Covid\bin\Common.Logging.Core.pdb
+F:\المواد\Covid\Covid\bin\Common.Logging.Core.xml
+F:\المواد\Covid\Covid\bin\DocumentFormat.OpenXml.xml
+F:\المواد\Covid\Covid\bin\ExcelNumberFormat.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Cors.xml
+F:\المواد\Covid\Covid\bin\Newtonsoft.Json.xml
+F:\المواد\Covid\Covid\bin\Quartz.pdb
+F:\المواد\Covid\Covid\bin\Quartz.xml
+F:\المواد\Covid\Covid\bin\System.Net.Http.Formatting.xml
+F:\المواد\Covid\Covid\bin\System.Web.Http.xml
+F:\المواد\Covid\Covid\bin\System.Web.Http.Cors.xml
+F:\المواد\Covid\Covid\bin\System.Web.Http.WebHost.xml
+F:\المواد\Covid\Covid\bin\System.Web.Helpers.xml
+F:\المواد\Covid\Covid\bin\System.Web.Mvc.xml
+F:\المواد\Covid\Covid\bin\System.Web.Optimization.xml
+F:\المواد\Covid\Covid\bin\System.Web.Razor.xml
+F:\المواد\Covid\Covid\bin\System.Web.WebPages.xml
+F:\المواد\Covid\Covid\bin\System.Web.WebPages.Deployment.xml
+F:\المواد\Covid\Covid\bin\System.Web.WebPages.Razor.xml
+F:\المواد\Covid\Covid\bin\WebApiContrib.Formatting.Jsonp.pdb
+F:\المواد\Covid\Covid\bin\Antlr3.Runtime.pdb
+F:\المواد\Covid\Covid\bin\EntityFramework.xml
+F:\المواد\Covid\Covid\bin\EntityFramework.SqlServer.xml
+F:\المواد\Covid\Covid\bin\Microsoft.AspNet.Identity.Core.xml
+F:\المواد\Covid\Covid\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\المواد\Covid\Covid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.Facebook.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.Cookies.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.OAuth.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.Google.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.Twitter.xml
+F:\المواد\Covid\Covid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\المواد\Covid\Covid\bin\ja\System.Web.Http.Cors.resources.dll
+F:\المواد\Covid\Covid\bin\ko\System.Web.Http.Cors.resources.dll
+F:\المواد\Covid\Covid\bin\zh-Hans\System.Web.Http.Cors.resources.dll
+F:\المواد\Covid\Covid\obj\Debug\Covid.csprojResolveAssemblyReference.cache
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.cimnmur.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.bnbmv.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.nbvh.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.insk.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.advice.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.result.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.cityid.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.res.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.city.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.cn.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.up.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.del.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.dell.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.delll.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.delllkh.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.delllsd.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.kuyj.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.kuyjkj.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.kuyt.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.itmid.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.item.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.Migrations.latlong.resources
+F:\المواد\Covid\Covid\obj\Debug\Covid.csproj.GenerateResource.Cache
+F:\المواد\Covid\Covid\obj\Debug\Covid.dll
+F:\المواد\Covid\Covid\obj\Debug\Covid.pdb
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Covid.dll.config
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Covid.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Covid.pdb
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Antlr3.Runtime.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\ClosedXML.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Common.Logging.Core.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Common.Logging.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\DocumentFormat.OpenXml.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\EntityFramework.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\EntityFramework.SqlServer.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\ExcelNumberFormat.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.AspNet.Identity.Core.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Cors.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.Cookies.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.Facebook.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.Google.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.OAuth.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.Twitter.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Web.Infrastructure.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Newtonsoft.Json.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Owin.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Quartz.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Net.Http.Formatting.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Cors.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Helpers.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Http.Cors.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Http.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Http.WebHost.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Mvc.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Optimization.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Razor.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.WebPages.Deployment.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.WebPages.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.WebPages.Razor.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\WebApiContrib.Formatting.Jsonp.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\WebGrease.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\ClosedXML.pdb
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\ClosedXML.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Common.Logging.pdb
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Common.Logging.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Common.Logging.Core.pdb
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Common.Logging.Core.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\DocumentFormat.OpenXml.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\ExcelNumberFormat.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Cors.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Newtonsoft.Json.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Quartz.pdb
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Quartz.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Net.Http.Formatting.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Http.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Http.Cors.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Http.WebHost.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Helpers.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Mvc.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Optimization.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.Razor.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.WebPages.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.WebPages.Deployment.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\System.Web.WebPages.Razor.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\WebApiContrib.Formatting.Jsonp.pdb
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Antlr3.Runtime.pdb
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\EntityFramework.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\EntityFramework.SqlServer.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.AspNet.Identity.Core.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.Facebook.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.Cookies.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.OAuth.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.Google.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.Twitter.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\ja\System.Web.Http.Cors.resources.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\ko\System.Web.Http.Cors.resources.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\bin\zh-Hans\System.Web.Http.Cors.resources.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.csprojResolveAssemblyReference.cache
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.cimnmur.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.bnbmv.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.nbvh.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.insk.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.advice.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.result.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.cityid.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.res.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.city.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.cn.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.up.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.del.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.dell.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.delll.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.delllkh.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.delllsd.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.kuyj.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.kuyjkj.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.kuyt.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.itmid.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.item.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.Migrations.latlong.resources
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.csproj.GenerateResource.Cache
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.dll
+F:\محاضرات\سنه رابعه\مشروع التخرج\Covid\Covid\Covid\obj\Debug\Covid.pdb
